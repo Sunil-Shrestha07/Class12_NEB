@@ -13,4 +13,7 @@ In this repo, you can find collection of questions(programs) that are required f
   - `git commit -m "YOUR-MESSAGE" `
   - `git push`
 
-# Note : Code should only be in either of `JavaScript`, `C` or `PHP`.
+# Notes : 
+- Code should only be in either of `JavaScript`, `C` or `PHP`.
+- If bug or error is found, PR will be labeled `invaild`.
+- If you don't find issue for your problems then raise an issue yourself and then make PR for it.
