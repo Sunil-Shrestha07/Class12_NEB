@@ -12,3 +12,5 @@ In this repo, you can find collection of questions(programs) that are required f
   - `git add .`
   - `git commit -m "YOUR-MESSAGE" `
   - `git push`
+
+# Note : Code should only be in either of `JavaScript`, `C` or `PHP`.
